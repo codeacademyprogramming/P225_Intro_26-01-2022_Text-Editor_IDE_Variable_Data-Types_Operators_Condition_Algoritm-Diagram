@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\bin\Debug\netcoreapp3.1\P225FirstVisual.exe
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\bin\Debug\netcoreapp3.1\P225FirstVisual.deps.json
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\bin\Debug\netcoreapp3.1\P225FirstVisual.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\bin\Debug\netcoreapp3.1\P225FirstVisual.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\bin\Debug\netcoreapp3.1\P225FirstVisual.dll
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\bin\Debug\netcoreapp3.1\P225FirstVisual.pdb
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.dll
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.pdb
+C:\Users\memme\Desktop\P225\Task\P225FirstVisual\P225FirstVisual\obj\Debug\netcoreapp3.1\P225FirstVisual.genruntimeconfig.cache
